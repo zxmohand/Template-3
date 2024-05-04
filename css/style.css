@@ -1542,7 +1542,7 @@ ul {
   100% {
     left: 0;
     border-radius: 0;
-    width: 50%;
+    width: 55%;
     height: 100%;
   }
 }
@@ -1555,7 +1555,7 @@ ul {
   100% {
     right: 0;
     border-radius: 0;
-    width: 50%;
+    width: 55%;
     height: 100%;
   }
 }
